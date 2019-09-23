@@ -1,1 +1,2 @@
-worker: python DiscordBot - Copy.py
+worker: python DiscordBot.py
+
